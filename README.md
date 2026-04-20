@@ -1,7 +1,7 @@
 # Exercicio_Github
 1. Como executar o arquivo;
 
-Primeiro é necessario baixar o arquivo 'Calculadora.sh' no seguinte link : <link>
+Primeiro é necessario baixar o arquivo 'Calculadora.sh' no seguinte link : (https://github.com/leandrobf91-lang/Exercicio_Github/blob/main/Calculadora.sh)
 
 Va ate o diretorio do arquivo usando o comando cd (O caminho ira variar de acordo com a estrutura de diretorios de cada maquina)
 
